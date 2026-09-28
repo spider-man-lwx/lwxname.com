@@ -1,22 +1,20 @@
-# 李万鑫的网站
+# 李万鑫的个人博客
 
-## 概念表
+> *活到老，学到老* — 定投、健身、读书、学习、陪家人、赛车、吉他、写故事。
 
--[进入概念表](./posts/concepttablefolder/index.md)
+---
 
-## 关系表
+## 📚 核心专栏
 
--[进入关系表](./posts/guanxi-table-folder/index.md)
+- [区块链小白书](./posts/blockchainlittlebook.md)
+- [概念表](./posts/concepttablefolder/index.md)
+- [关系表](./posts/guanxi-table-folder/index.md)
+- [流程表](./posts/flow-table-folder/index.md)
 
-## 流程表
+## ✍️ 最新文章
 
--[进入流程表](./posts/flow-table-folder/index.md)
+- [文章列表](./posts/arcticlelist/index.md)
 
-## 文章列表
+## 👤 关于本站
 
--[进入文章列表](./posts/arcticlelist/index.md)
-
-
-[区块链小白书](posts/blockchainlittlebook.md)
-
-[关于本站](about.md)
+- [关于本站](./about.md)
